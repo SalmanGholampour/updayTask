@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Upday</string>
+    <string name="btn_login_text">Login</string>
+    <string name="txt_login_desc">You have not registered yet OR Your token has been expired \n Please press Login</string>
+
+    <string name="connectionError_text">Please Check your connection!!</string>
+    <string name="normalError_text">An Error has occurred</string>
+    <string name="unAuthorizedError_text">You have not registered yet OR Your token has been expired</string>
+
+</resources>
