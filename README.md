@@ -20,7 +20,7 @@ the technologies have been used
 
 ### How to run?
 
-first: Clone the repositort
+first: Clone the repository
 ```sh
 git clone https://github.com/SalmanGholampour/updayTask.git
 ```
