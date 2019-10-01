@@ -7,6 +7,8 @@
 This project is mobile Android Application which calls Shutterstock's Api to get images and shows in infinite list
 
 in case of to spend more time I would work on UI more and perform some animations
+for example it's better to have a Dialog when the token is expired or user has not registered.
+The Dialog lead user to Login page or finish the app if user cancle it.
 
 the technologies have been used
 * MVVM Architecture pattern to separate layers of code.
